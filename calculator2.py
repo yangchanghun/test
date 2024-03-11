@@ -1,10 +1,6 @@
 # test
-# fasdfadsfsd
-# mnu -dev 개발 진행
-# adsf
-# menu -dev 자겁
 
+a =1
+b =2
 
-12345
-
-12312434
+test1 = a+b
